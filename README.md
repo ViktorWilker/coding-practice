@@ -3,7 +3,7 @@
 This repository contains programming exercises, algorithms, and small projects developed while learning different programming languages
 
 Languages included:
-- Python
+- [Python](Python)
 - C++
 - SQL
 - Portugol
