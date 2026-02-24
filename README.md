@@ -5,13 +5,11 @@ This repository contains programming exercises, algorithms, and small projects d
 Languages included:
 - [Python](Python)
 - [C++](Codes.cpp)
-- SQL
-- Portugol
+- [Portugol](Portugol)
 
 Topics:
 - Logic and problem solving
 - Algorithms
-- Data structures
 - Practice challenges
 - Automation scripts
 
