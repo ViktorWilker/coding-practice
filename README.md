@@ -4,7 +4,7 @@ This repository contains programming exercises, algorithms, and small projects d
 
 Languages included:
 - [Python](Python)
-- C++
+- [C++](Codes.cpp)
 - SQL
 - Portugol
 
