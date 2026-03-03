@@ -1,17 +1,15 @@
+#!/usr/bin/env kotlin
+
 package Lista_02
 
-//3. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
-
+//2. Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
 fun main(){
-    var greater = -999
-    val x = Array(3){0}
-
-    for(i in x.indices){
-        x[i] = readln().toInt()
-        if(x[i] > greater){
-            greater = x[i]
-        }
+    var x = readln().toInt()
+    if (x > 0){
+        println("positivo")
+    }else if(x < 0){
+    print("negativo")
+    }else{
+        println("zero")
     }
-
-    println(greater)
 }
