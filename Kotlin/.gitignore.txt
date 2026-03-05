@@ -1,0 +1,25 @@
+# Compilação e Output
+/out/
+/build/
+*.class
+*.dex
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/out/
+
+# Se usares Gradle no futuro
+.gradle/
+build/
+capture/
+
+# Ficheiros do Sistema
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
